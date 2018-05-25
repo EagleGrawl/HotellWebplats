@@ -1,0 +1,35 @@
+body{
+  background-image: url("bilder/background.jpg");
+}
+
+h1 {
+  text-align: center;
+}
+
+p {
+  text-align: center;
+  display: block;
+}
+
+#logotype {
+  width: inherit;
+  height: inherit;
+}
+
+pre {
+ margin-top: 1em;
+}
+
+#myCarousel {
+  padding: 1.5em;
+}
+
+.Footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color:beige;
+  color: #333333;
+  text-align: center;
+}
