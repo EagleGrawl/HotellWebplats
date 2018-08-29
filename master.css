@@ -1,14 +1,17 @@
 body{
   background-image: url("bilder/background.jpg");
+  font-family: 'Barlow Semi Condensed','Spectral SC';
 }
 
 h1 {
   text-align: center;
+  font-family: 'Barlow Semi Condensed','Spectral SC';
 }
 
 p {
   text-align: center;
   display: block;
+  font-family: 'Barlow Semi Condensed','Spectral SC';
 }
 
 #logotype {
@@ -25,6 +28,7 @@ pre {
 }
 
 .Footer {
+  font-family: 'Barlow Semi Condensed','Spectral SC';
   position: fixed;
   left: 0;
   bottom: 0;
@@ -32,4 +36,8 @@ pre {
   background-color:beige;
   color: #333333;
   text-align: center;
+}
+
+iframe {
+  width: 100%;
 }
